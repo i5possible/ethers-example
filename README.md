@@ -13,7 +13,7 @@ See [MetaMask](https://docs.metamask.io/guide/getting-started.html#basic-conside
 
 Start a test network using ganache-cli.
 
-Run `yarn install && yarn start` to start this project.
+Run `npm install && npm run start` to start this project.
 
 Connect the wallet using Localhost:8545 at MetaMask. Restore the account to the wallet.
 
